@@ -12,7 +12,5 @@ ping (destination)
 list
 login (userName userPassword)
 msg (destination messageText)
-file (destination fileName)
 exit
 ```
->**Note:** file must be in project directory.
