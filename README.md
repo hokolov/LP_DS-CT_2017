@@ -12,6 +12,7 @@ ping (destination)
 list
 login (userName userPassword)
 msg (destination messageText)
+receivemsg
 exit
 ```
 > **Note:** parentheses do not need to enter.
