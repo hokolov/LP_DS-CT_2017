@@ -4,7 +4,7 @@
 #####2. Enter commands in the following format:
 `"command" (parametr1 parametr2)` and text if necessary
 
-#####**Example**:
+#####**Examples**:
 
 ```
 echo (anyText)
@@ -14,3 +14,4 @@ login (userName userPassword)
 msg (destination messageText)
 exit
 ```
+> **Note:** parentheses do not need to enter.
