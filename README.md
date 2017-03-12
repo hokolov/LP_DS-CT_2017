@@ -18,5 +18,5 @@ receivefile
 exit
 ```
 > **Note:** 
-> 1. Parentheses do not need to enter;<br />
+> <br />1. Parentheses do not need to enter;<br />
 > 2. File need be in project root directory.
