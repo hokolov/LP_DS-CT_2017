@@ -1,18 +1,22 @@
-###**Seminar02**
+###**Seminar03**
 
-#####1. Please, for start work with project, run TwoMain.java file.
-#####2. Enter commands in the following format:
-`command (parametr1 parametr2)` or `command text`
+ 1. Please, for start work with project, run ThreeMain.java file.  
+ 2. Enter commands in the following format:
+`command (parametr1 parametr2)` or `command (text)` or `command`
 
 #####**Examples**:
 
 ```
 echo (anyText)
-ping (destination)
+ping
 list
 login (userName userPassword)
-msg (destination messageText)
+msg (recipientUserName messageText)
 receivemsg
+file (recipientUserName fileName)
+receivefile
 exit
 ```
-> **Note:** parentheses do not need to enter.
+> **Note:** 
+> 1. Parentheses do not need to enter;
+> 2. File need be in project root directory.
