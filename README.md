@@ -1,6 +1,6 @@
-**Seminar04**
+**Seminar05**
 
- 1. Please, for start work with project, run FourMain.java file.  
+ 1. Please, for start work with project, run FiveMain.java file.  
  2. Enter commands in the following format:
 `command (parametr1 parametr2)` or `command (text)` or `command`
 
