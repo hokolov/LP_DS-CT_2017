@@ -1,10 +1,10 @@
-###**Seminar03**
+##**Seminar04**
 
- 1. Please, for start work with project, run ThreeMain.java file.  
+ 1. Please, for start work with project, run FourMain.java file.  
  2. Enter commands in the following format:
 `command (parametr1 parametr2)` or `command (text)` or `command`
 
-#####**Examples**:
+######**Examples**:
 
 ```
 echo (anyText)
