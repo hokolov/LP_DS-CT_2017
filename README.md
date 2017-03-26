@@ -1,4 +1,4 @@
-**Seminar05**
+**Seminar06**
 
  1. Please, for start work with project, run FiveMain.java file.  
  2. Enter commands in the following format:
