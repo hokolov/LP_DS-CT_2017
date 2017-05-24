@@ -155,7 +155,7 @@ public interface Compute extends Remote {
             }
 
             int finishTime = (int) (Instant.now().getEpochSecond() - startTime);
-            System.out.printf("Duration of sorting " + finishTime + " sec.");
+            System.out.println("Duration of sorting " + finishTime + " sec.");
         }
     }
 }
