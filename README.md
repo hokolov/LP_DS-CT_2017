@@ -15,4 +15,4 @@ exit -this command exit from server and close connection
 > **Note:** 
 > <br />1. Parentheses do not need to enter;<br />
 > 2. (fileName) this means that you have to enter the name of the file to be created;
-> 3. before start program set VM Options -Djava.security.policy=.java.policy.
+> 3. Add in VM Options "-Djava.security.policy=.java.policy";
